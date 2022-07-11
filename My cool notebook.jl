@@ -6,21 +6,7 @@ using InteractiveUtils
 
 # ╔═╡ 5b2ee40e-a2b8-11ea-0fef-c35fe6918860
 md"""
-# The tower of Hanoi
-
-The tower of hanoi is a famous puzzle.
-
-![setup of the tower of a hanoi](https://upload.wikimedia.org/wikipedia/commons/0/07/Tower_of_Hanoi.jpeg)
-
-The game consists of three rods with disks stacked on top of them. The puzzle will start with all disks in a stack on one of the rods (like in the picture). The goal is to move all the discs to a single stack on  different rod.
-
-To move the disks, you have to follow the following rules:
-
-* You can move only one disk at a time.
-* For each move, you have to take the upper disk from one of the stacks, and place it on top of another stack or empty rod.
-* You cannot place a larger disk on top of a smaller disk.
-
-This notebook will define a Julia implementation of the puzzle. It's up to you to write an algorithm that solves it.
+# julia 학습 블로그
 """
 
 # ╔═╡ 95fbd0d2-a2b9-11ea-0682-fdf783251797
