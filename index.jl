@@ -13,8 +13,9 @@ md"""
 md"""
 ### Info
 
-- author:
-- lecture:
+이 블로그는 기원의 줄리아 학습 블로그입니다.
+
+- contens: Statistical Computing
 - ...
 
 """
