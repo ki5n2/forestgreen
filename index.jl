@@ -13,10 +13,9 @@ md"""
 md"""
 ### Info
 
-- 이 블로그는 기원의 줄리아 학습 블로그입니다.
-- contens: Statistical Computing
+- 이 블로그는 기원의 julia 학습 블로그입니다.
+- contents: Statistical Computing
 - ...
-
 """
 
 # ╔═╡ f589bb03-2bf2-4f65-b351-0e3c53eae11b
