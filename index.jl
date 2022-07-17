@@ -25,6 +25,9 @@ md"""
 
 # ╔═╡ 1f7b4001-be12-44dc-8745-c45ed7d2ad03
 md"""
+[Statistic Computing 11](https://ki5n2.github.io/forestgreen/2022-04-20-SC.html)
+- 카이제곱분포, 감마분포
+
 [Statistic Computing 10](https://ki5n2.github.io/forestgreen/2022-04-15-SC.html)
 - 정규분포, 위치모수와 척도모수
 
